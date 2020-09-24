@@ -2,6 +2,10 @@
 
 My name is Michael Choi and I am a firmware engineer. 
 
+### Sections
+
+[Test Section 1](test_section1)
+
 ### Reference
 
 ```markdown
