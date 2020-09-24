@@ -2,4 +2,4 @@
 
 Foobar
 
-[home](https://caxpy.github.io/about-me/)
+[home](index.md)
